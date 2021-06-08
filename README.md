@@ -1,0 +1,2 @@
+# android_issue_2020
+It is an application that can test three Android app vulnerabilities (user enumeration, routing detection bypass, and deep link) that have been issued in 2020.  The app has a built-in flag value like CTF. Find flags and try authenticating on MainActivity!  You can proceed with vulnerability analysis using the android_issue_2020.apk file. If you want to do both secure coding, open the project on Android Studio.  Please introduce the android_issue_2020.apk file to many people! Please introduce my GitHub link!  by. arrester
