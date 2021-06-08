@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android_issue_2020">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_android_issue"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_android_issue"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Android_issue_2020">
+        <activity android:name=".DeepLinkActivity">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <data
+                    android:host="value"
+                    android:scheme="issue" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RootDetectionBypassActivity" />
+        <activity android:name=".MydataActivity" />
+        <activity android:name=".UserEnumerationActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
