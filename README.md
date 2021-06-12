@@ -5,6 +5,10 @@ The app has a built-in flag value like CTF. Find flags and try authenticating on
 
 You can proceed with vulnerability analysis using the android_issue_2020.apk file. If you want to do both secure coding, open the project on Android Studio.
 
+[Brute Force User Enumeration]
+- Test ID: arrester
+- Test PW: demon
+
 Please introduce the android_issue_2020.apk file to many people! Please introduce my GitHub link!
 
 by. arrester
