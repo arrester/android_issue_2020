@@ -9,7 +9,7 @@ You can proceed with vulnerability analysis using the android_issue_2020.apk fil
 - Test ID: arrester
 - Test PW: demon
 
-Please introduce the android_issue_2020.apk file to many people! Please introduce my GitHub link!
+Please introduce the android_issue_2020.apk file to many people! Please introduce my GitHub link! and Repository '★ star' click Go!
 
 by. arrester
 
